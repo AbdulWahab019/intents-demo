@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="send_to_maps">Send to Maps</string>
+    <string name="number">Number</string>
+    <string name="send_message">Send Message</string>
+    <string name="message">Message</string>
+    <string name="call">Call</string>
+</resources>
